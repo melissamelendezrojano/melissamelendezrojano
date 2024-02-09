@@ -13,9 +13,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+| <!-- -->      | <!-- -->        | 
+|:-------------:|:---------------:|
+| Row 1         | **Bold**        |
+| Row 2         | *Italic*        |
+| Row 3         | ~~Strike~~      |
 -->
 
+## About me
 - 🌱 Data scientist
 - 🔭 Continuous learning
 - 🎯 Obtain valuable information from data to improve decision making.
 
+## My projects
+| <!-- -->      |
+|:-------------:|
+| Row 1         |
+| Row 2         |
+| Row 3         |
