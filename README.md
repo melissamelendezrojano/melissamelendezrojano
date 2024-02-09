@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 Data scientist
+- 🔭 Continuous learning
+- 🎯 Obtain valuable information from data to improve decision making.
+
