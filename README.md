@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🎯 Obtain valuable information from data to improve decision making.
 
 ## My projects
-| <!-- -->      |
+| ![ml project melissa  (1)](https://github.com/melissamelendezrojano/melissamelendezrojano/assets/90320256/78e40d77-031d-414f-8737-5393f188084f)   |
 |:-------------:|
 | Row 1         |
 | Row 2         |
