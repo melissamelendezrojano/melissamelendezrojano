@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-| <!-- -->      | <!-- -->        | 
-|:-------------:|:---------------:|
-| Row 1         | **Bold**        |
-| Row 2         | *Italic*        |
-| Row 3         | ~~Strike~~      |
+## My projects
+| ![ml project melissa  (1)](https://github.com/melissamelendezrojano/melissamelendezrojano/assets/90320256/78e40d77-031d-414f-8737-5393f188084f)   |
+|:-------------:|
+| Row 1         |
+| Row 2         |
+| Row 3         |
 -->
 
 ## About me
@@ -26,9 +26,4 @@ Here are some ideas to get you started:
 - 🔭 Continuous learning
 - 🎯 Obtain valuable information from data to improve decision making.
 
-## My projects
-| ![ml project melissa  (1)](https://github.com/melissamelendezrojano/melissamelendezrojano/assets/90320256/78e40d77-031d-414f-8737-5393f188084f)   |
-|:-------------:|
-| Row 1         |
-| Row 2         |
-| Row 3         |
+
