@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- 🌱 Data scientist
+- 🌱 Big Data
 - 🔭 Continuous learning
-- 🎯 Obtain valuable information from data to improve decision making.
+- 🎯 Obtain valuable information from data to improve decision making
 
 
