@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ## About me
 - 🌱 Big Data
+- 👩🏻‍💻 Data Analyst | Data Scientist
 - 🔭 Continuous learning
 - 🎯 Obtain valuable information from data to improve decision making
 
