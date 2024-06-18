@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 - 🎯 Obtain valuable information from data to improve decision making
 
 
-+---------------+----------------+----------------+
+|---------------|----------------|----------------|
 | customer_code | custmer_name   | customer_type  |
-+---------------+----------------+----------------+
+|---------------|----------------|----------------|
 | Cus001        | Surge Stores   | Brick & Mortar |
 | Cus002        | Nomad Stores   | Brick & Mortar |
 | Cus003        | Excel Stores   | Brick & Mortar |
 | Cus004        | Surface Stores | Brick & Mortar |
 | Cus005        | Premium Stores | Brick & Mortar |
-+---------------+----------------+----------------+
+|---------------|----------------|----------------|
