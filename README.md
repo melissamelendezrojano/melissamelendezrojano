@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 ## My projects
 | ![ml project melissa  (1)](https://github.com/melissamelendezrojano/melissamelendezrojano/assets/90320256/78e40d77-031d-414f-8737-5393f188084f)   |
 |:-------------:|
@@ -28,3 +29,12 @@ Here are some ideas to get you started:
 - 🎯 Obtain valuable information from data to improve decision making
 
 
++---------------+----------------+----------------+
+| customer_code | custmer_name   | customer_type  |
++---------------+----------------+----------------+
+| Cus001        | Surge Stores   | Brick & Mortar |
+| Cus002        | Nomad Stores   | Brick & Mortar |
+| Cus003        | Excel Stores   | Brick & Mortar |
+| Cus004        | Surface Stores | Brick & Mortar |
+| Cus005        | Premium Stores | Brick & Mortar |
++---------------+----------------+----------------+
