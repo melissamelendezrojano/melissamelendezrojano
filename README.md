@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 - 🎯 Obtain valuable information from data to improve decision making
 
 
-### Technologies used
+#### Technologies used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
+<!--
 ![mostusedlanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=melissamelendezrojano&theme=blue-green)
+-->
