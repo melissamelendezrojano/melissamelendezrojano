@@ -29,11 +29,7 @@ Here are some ideas to get you started:
 - 🎯 Obtain valuable information from data to improve decision making
 
 
-
-| customer_code | custmer_name   | customer_type  |
-|---------------|----------------|----------------|
-| Cus001        | Surge Stores   | Brick & Mortar |
-| Cus002        | Nomad Stores   | Brick & Mortar |
-| Cus003        | Excel Stores   | Brick & Mortar |
-| Cus004        | Surface Stores | Brick & Mortar |
-| Cus005        | Premium Stores | Brick & Mortar |
+### Technologies used
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
