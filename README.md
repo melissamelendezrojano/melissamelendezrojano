@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 | Row 3         |
 -->
 
+<!--
 ## About me
 - 🌱 Big Data
 - 👩🏻‍💻 Data Analyst | Data Scientist
 - 🔭 Continuous learning
 - 🎯 Obtain valuable information from data to improve decision making
+-->
 
 
 #### Technologies used
